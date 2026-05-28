@@ -33,7 +33,7 @@
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,firebase,supabase" />
 
 ---
 
