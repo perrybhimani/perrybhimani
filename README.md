@@ -131,19 +131,8 @@ Modern real estate web platform.
 
 ---
 
-## 🧠 Currently Learning
-
-* Advanced NestJS Architecture
-* Microservices
-* AWS Services
-* Docker & CI/CD
-* System Design
----
-
 <div align="center">
 
 ### 🚀 "Code. Build. Scale. Repeat."
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
