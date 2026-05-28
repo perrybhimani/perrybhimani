@@ -4,7 +4,7 @@
 
 ### 🚀 Full Stack Developer | React.js | Node.js | React Native
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Node.js+Developer;React+Native+Developer;5%2B+Years+of+Experience;Building+Modern+Web+%26+Mobile+Apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+%7C+Node.js+Developer;React+Native+Developer;NestJS+Backend+Developer;Building+Modern+Web+%26+Mobile+Apps;5%2B+Years+of+Experience" alt="Typing SVG" />
 
 </div>
 
@@ -13,9 +13,10 @@
 ## 👨‍💻 About Me
 
 * 💼 Full Stack Developer with **5+ years** of experience
-* ⚛️ Specialized in **React.js, React Native & Node.js**
-* 🔥 Building scalable web & mobile applications
-* ☁️ Learning advanced backend & cloud architecture
+* ⚛️ Specialized in **Frontend & Backend Development**
+* 📱 Building scalable **Web & Mobile Applications**
+* ☁️ Exploring **Cloud Architecture & System Design**
+* 🚀 Passionate about clean code and performance optimization
 * 📍 Surat, Gujarat, India
 
 ---
@@ -24,21 +25,27 @@
 
 <div align="center">
 
-### Frontend
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,js,ts,html,css,bootstrap,materialui" />
 
-### Backend
+---
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+### ⚙️ Backend
 
-### Database
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,firebase" />
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+---
 
-### Tools & Cloud
+### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
+---
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,postman,vscode" />
 
 </div>
 
@@ -48,11 +55,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -66,39 +77,45 @@ Health & fitness application for workout and diet tracking.
 
 ### 👨‍💼 Team HR
 
-HRMS platform for attendance, leave, employee management, and announcements.
+Complete HRMS platform with attendance, leave, employee management, announcements, and reporting.
 
 ### 🎵 Excerptlab
 
-Interactive musical learning platform.
+Interactive musical learning platform for trainers and students.
 
 ### 🌍 Heer
 
-Location-based social sharing application.
+Location-based social sharing application for trip and city connections.
 
 ### 🏢 HRIS
 
-Employee management & company workflow system.
+Enterprise employee management and workflow system.
+
+### 🏠 Ryly
+
+Modern real estate web platform.
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### 🚀 Full Stack Developer — Team Unibrains
 
 📅 Aug 2023 - Present
 
 * Developed scalable applications using React.js & React Native
-* Optimized application performance and fixed production issues
-* Collaborated with teams for project implementation
+* Improved frontend performance and application stability
+* Collaborated with teams for end-to-end implementation
+
+---
 
 ### 💻 Sr. Software Developer — MD Tech
 
 📅 Jan 2022 - Aug 2023
 
-* Built scalable backend APIs and frontend systems
-* Worked directly with clients for requirement analysis
-* Improved project documentation & workflow
+* Built scalable backend APIs and frontend architecture
+* Worked directly with clients for requirement gathering
+* Improved workflow and documentation processes
 
 ---
 
@@ -114,8 +131,21 @@ Employee management & company workflow system.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
+---
+
+## 🧠 Currently Learning
+
+* Advanced NestJS Architecture
+* Microservices
+* AWS Services
+* Docker & CI/CD
+* System Design
 ---
 
 <div align="center">
